@@ -1,4 +1,3 @@
-
 /*
 * The Jet program is an extension from the airplane program.
 *
